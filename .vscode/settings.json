@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp"
+    }
+}
