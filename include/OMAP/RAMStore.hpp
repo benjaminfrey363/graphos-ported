@@ -3,6 +3,8 @@
 #include <array>
 #include <vector>
 
+#include <cstdint>
+
 using namespace std;
 
 using byte_t = uint8_t;
